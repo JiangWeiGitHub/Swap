@@ -27,3 +27,4 @@
 
 + Tips
  - **swapon -s** : display summary about used swap devices
+ - **truncate** : create big files quickly
